@@ -1,5 +1,5 @@
 ingredients:
-- 2 avaocaods
+- 3 avaocaods
 - 1 lime
 - 1 onion
 - 2 tsp salt
