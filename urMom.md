@@ -1,4 +1,4 @@
-ingredients: no evil laugh zone, but yes, HAHAHAHA
+ingredients: no evil laugh zone, but yes, HA
 - 3 avaocaods
 - 1 lime
 - 1 onion
