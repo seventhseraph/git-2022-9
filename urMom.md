@@ -1,4 +1,4 @@
-ingredients:
+ingredients: no evil laugh zone
 - 3 avaocaods
 - 1 lime
 - 1 onion
