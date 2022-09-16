@@ -1,4 +1,4 @@
-ingredients: HAHAHAHAHHAHAHA
+ingredients: HAHAHAHAHAHAHA
 - 3 avaocaods
 - 1 lime
 - 1 onion
